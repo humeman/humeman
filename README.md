@@ -5,6 +5,6 @@
   - 🚗 [OpenAuto patched installer](https://github.com/humeman/openauto-patched-installer)
   - 🤖 [Discord bots](https://humeman.com/bots)
   - 📜 [Python API wrappers](https://humeman.com/libraries)
-- 📭 Reach me at __camdenjsf@gmail.com__
+- 📭 Reach me at camdenjsf@gmail.com
 - 🚦 Check [server status](https://status.humeman.com/)
 - 🗃 View [my projects](https://humeman.com/projects)
