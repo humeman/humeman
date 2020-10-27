@@ -6,5 +6,5 @@
   - 🤖 [Discord bots](https://humeman.com/bots)
   - 📜 [Python API wrappers](https://humeman.com/libraries)
 - 📭 Reach me at camdenjsf@gmail.com
-- 🚦 Check [server status](https://status.humeman.com/)
+- 🚥 Check [server status](https://status.humeman.com/)
 - 🗃 View [my projects](https://humeman.com/projects)
