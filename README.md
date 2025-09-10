@@ -1,5 +1,5 @@
 ## I'm Camden 👋
-A 3rd-year Software Engineering student minoring in Cybersecurity Engineering.
+A 4th-year Software Engineering student minoring in Cybersecurity Engineering.
 
 - 🌐 Visit [my website](https://humeman.com/)
 - 📭 Reach me at camden@humeman.com
